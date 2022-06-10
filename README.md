@@ -1,2 +1,7 @@
-# experimentation_javascript
-Small Website without style, that Encode/Decode in Base64 user input
+# Base64 Cypher
+
+Ce site permet à l'utilisateur d'interagir avec un Encoder/Decoder en Base64.
+
+Le boutton de sélection permet d'alterner entre Encodage et Decodage.
+
+![Screenshot](doc/screenshot.png)
