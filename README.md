@@ -4,4 +4,4 @@ Ce site permet à l'utilisateur d'interagir avec un Encoder/Decoder en Base64.
 
 Le boutton de sélection permet d'alterner entre Encodage et Decodage.
 
-![Screenshot](doc/screenshot.png)
+![Screenshot](doc/screen.png)
